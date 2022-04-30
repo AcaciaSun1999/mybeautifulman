@@ -13,3 +13,5 @@
 [06](https://github.com/AcaciaSun1999/mybeautifulman/blob/%E3%80%8A%E7%BE%8E%E4%B8%BD%E7%9A%84%E4%BB%96%E3%80%8B/%E3%80%8A%E7%BE%8E%E4%B8%BD%E7%9A%84%E4%BB%96%E3%80%8B_%E7%BE%8E%E4%B8%BD%E7%9A%84%E4%BB%96_06.md)
 
 [07](https://github.com/AcaciaSun1999/mybeautifulman/blob/%E3%80%8A%E7%BE%8E%E4%B8%BD%E7%9A%84%E4%BB%96%E3%80%8B/%E3%80%8A%E7%BE%8E%E4%B8%BD%E7%9A%84%E4%BB%96%E3%80%8B_%E7%BE%8E%E4%B8%BD%E7%9A%84%E4%BB%96_07.md)
+
+[08](https://github.com/AcaciaSun1999/mybeautifulman/blob/%E3%80%8A%E7%BE%8E%E4%B8%BD%E7%9A%84%E4%BB%96%E3%80%8B/%E3%80%8A%E7%BE%8E%E4%B8%BD%E7%9A%84%E4%BB%96%E3%80%8B_%E7%BE%8E%E4%B8%BD%E7%9A%84%E4%BB%96_08.md)
